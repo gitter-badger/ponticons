@@ -7,6 +7,8 @@ Ponticons is the icon font for PMEase. Most of the icons are based on below famo
 
 # Add Icons 
 
+[![Join the chat at https://gitter.im/steveluo/ponticons](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/steveluo/ponticons?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Add svg file to src directory, then update `builder/manifest.json`.
 
 ## Build Instructions
